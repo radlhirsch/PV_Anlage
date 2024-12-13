@@ -15,7 +15,7 @@ Es sind 3 Module a 3.5kWh in 19" Rack verbaut
 - S/N Y221012C30220098
 - S/N Y221012C30221272
 
-# Registrierung:
+### Registrierung:
 The uniform registration number of your devices is: 20241127032635309684
 
-[back to installation](installation.md)
+[--> back to installation](installation.md)
