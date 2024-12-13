@@ -2,7 +2,7 @@
 title: INDEX
 ---
 
-Übersicht über PV Anlage HLS156
+## Übersicht über PV Anlage HLS156
 
 [Installation](installation/installation.md)
 
