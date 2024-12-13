@@ -3,4 +3,4 @@ title: links
 ---
 
 
-[back to index](index.md)
+[back to index](../index.md)
