@@ -5,7 +5,9 @@ title: Installation
 [Dachanlage](Dachanlage.md)
 
 [Solarwechselrichter](Solarwechselrichter.md)
-5. Wechselrichter für Batterie
-6. Batterie
+
+[Wechselrichter für Batterie](Victron.md)
+
+[Batteriespeicher](Pylontech.md)
 
 [back to index](../index.md)
