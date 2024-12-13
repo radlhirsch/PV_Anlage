@@ -1,4 +1,4 @@
-# Solarwechselrichter
+# Batterie - Wechselrichter
 Der Kombiwechselrichter ist AC-seitig an das Hausnetz angeschlossen und übernimmt folgende Aufgaben
 - Laden der Batterien mit Gleichspannung 48V (Solarlader)
 - Inverter zur Erzeugung von Wechselspannung aus den Batterien
