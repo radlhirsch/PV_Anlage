@@ -3,3 +3,17 @@ author: radl_hirsch
 description: PV documentation
 
 markdown: GFM
+
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - index.md
+  - README.md
+  - installation.md
+  - issues.md
+  - links.md
+  - logs.md
+  
