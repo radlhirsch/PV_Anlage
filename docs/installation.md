@@ -7,4 +7,4 @@ title: Installation
 3. Wechselrichter für Batterie
 4. Batterie
 
-[logs](https://github.com/radlhirsch/main/logs.md)
+[Chapter logs](logs.md)
