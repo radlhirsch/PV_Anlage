@@ -2,13 +2,9 @@
 title: Installation
 ---
 
+[Dachanlage](Dachanlage.md)
 
-
-
-
-
-3. 
-4. Solarwechselrichter
+[Solarwechselrichter](Solarwechselrichter.md)
 5. Wechselrichter für Batterie
 6. Batterie
 
