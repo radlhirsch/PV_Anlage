@@ -1,13 +1,10 @@
----
-title: Batterie-Wechselrichter
----
-
+# Solarwechselrichter
 Der Kombiwechselrichter ist AC-seitig an das Hausnetz angeschlossen und übernimmt folgende Aufgaben
 - Laden der Batterien mit Gleichspannung 48V (Solarlader)
 - Inverter zur Erzeugung von Wechselspannung aus den Batterien
 
 Mit dem Greenrocksystem ursprünglich verbaut wurde ein Victron MultiplusII 3kW 
-Dieser wurde ersetzt durch einen [Victron MultiplusII 5kW](https://www.victronenergy.de/inverters-chargers/multiplus-ii) im Zuge des Austauschs und der Vergrösserung der [Speicherbatterie](Pylontech.md).
+Dieser wurde ersetzt durch einen [Victron Multiplus II 5kW](https://www.victronenergy.de/inverters-chargers/multiplus-ii) im Zuge des Austauschs und der Vergrösserung der [Speicherbatterie](Pylontech.md).
 
 ### Topologie der Installation:
 ![grafik](https://github.com/user-attachments/assets/2d932e9a-123b-46e1-9953-30a096f3e4ad)
