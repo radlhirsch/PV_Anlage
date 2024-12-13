@@ -2,12 +2,12 @@
 title: Installation
 ---
 
-[Dachanlage](Dachanlage.md)
+[Dachanlage](dachanlage.md)
 
-[Solarwechselrichter](Solarwechselrichter.md)
+[Solarwechselrichter](solarwechselrichter.md)
 
-[Wechselrichter für Batterie](Victron.md)
+[Wechselrichter für Batterie](victron.md)
 
-[Batteriespeicher](Pylontech.md)
+[Batteriespeicher](pylontech.md)
 
 [back to index](../index.md)
