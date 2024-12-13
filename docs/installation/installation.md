@@ -7,4 +7,4 @@ title: Installation
 3. Wechselrichter für Batterie
 4. Batterie
 
-[Chapter logs](logs.md)
+[back to index](index.md)
