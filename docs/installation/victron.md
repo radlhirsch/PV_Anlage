@@ -11,7 +11,12 @@ Dieser wurde ersetzt durch einen [Victron Multiplus II 5kW](https://www.victrone
 
 AC-DC-System - Strommessung erfolgt extern [Stromzähler Cavazzi EM340](https://www.victronenergy.com/upload/documents/Datasheet-Energy-Meters-Selection-Guide-EN.pdf)
 
+Anschluss der Batterien and die Wechselrichter erfolgt über den Victron Distributor - mit Einzelabsicherung der Module
+![grafik](https://github.com/user-attachments/assets/9de7455d-18c9-4211-8cde-0655d82d8015)
 
+
+Die Steuerung der Anlage erfolgt über einen [Cerbo GX](https://www.victronenergy.com/panel-systems-remote-monitoring/cerbo-gx#manuals)
+![grafik](https://github.com/user-attachments/assets/7e51eabf-f02d-471c-84c6-aac179b2dc61)
 
 
 
