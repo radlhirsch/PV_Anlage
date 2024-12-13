@@ -19,5 +19,5 @@ Es sind 30 Bauermodule auf beiden Dachflächen sowie an der Giebelwand verbaut
 Aufgrund der unterschiedlichen Ausrichtung der Modules sind alle mit Solaredge Leistungsoptimierern P350 ausgestattet
 ![grafik](https://github.com/user-attachments/assets/2ee21908-1780-4fe2-8aa3-1e4d2b231c07)
 
-[back to index](installation.md)
+[--> back to installation](installation.md)
 
