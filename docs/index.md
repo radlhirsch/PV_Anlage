@@ -10,4 +10,4 @@ title: INDEX
 
 [Log-files](logs/logs.md)
 
-[Links](links/links.md)
+[Nützliche Links](links/links.md)
