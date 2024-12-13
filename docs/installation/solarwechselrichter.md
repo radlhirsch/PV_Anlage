@@ -1,7 +1,3 @@
----
-title: Solarwechselrichter
----
-
 ## Wechselrichter SolarEdge SE-15K
 ![grafik](https://github.com/user-attachments/assets/f79ed050-82a2-4b37-a0e0-6dde5a8efa91)
 ### Technische Daten:
