@@ -1,3 +1,5 @@
 theme: minima
 author: radl_hirsch
 description: PV documentation
+
+markdown: GFM
