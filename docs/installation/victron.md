@@ -1,6 +1,7 @@
 # Batterie-Wechselrichter
 
 [Zurück zu: Installation](installation.md)
+
 Der Kombiwechselrichter ist AC-seitig an das Hausnetz angeschlossen und übernimmt folgende Aufgaben
 
 - Laden der Batterien mit Gleichspannung 48V (Solarlader)
@@ -12,6 +13,8 @@ Dieser wurde ersetzt durch einen [Victron Multiplus II 5kW](https://www.victrone
 ## Topologie der Installation
 
 ![grafik](https://github.com/user-attachments/assets/2d932e9a-123b-46e1-9953-30a096f3e4ad)
+
+Aktuell sind alle Verbraucher regulär angeschlossen. Es sind keine USV-Verbraucher angeschlossen (NoBreakLoads).
 
 AC-DC-System - Strommessung erfolgt extern [Stromzähler Cavazzi EM340](https://www.victronenergy.com/upload/documents/Datasheet-Energy-Meters-Selection-Guide-EN.pdf)
 
