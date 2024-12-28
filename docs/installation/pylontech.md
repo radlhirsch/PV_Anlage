@@ -1,5 +1,7 @@
 # Speicher Batterie
 
+[Zurück zu: Installation](installation.md)
+
 Nach Totalausfall der Greenrock LTO-Speichers aufgrund eines fehlenden BMS wurde der Speicher erweitert und durch Pylontech US3000C ersetzt
 
 ## Pylontech US3000C
@@ -23,4 +25,4 @@ Es sind 3 Module a 3.5kWh in 19" Rack verbaut
 
 The uniform registration number of your devices is: 20241127032635309684
 
-[--> back to installation](installation.md)
+[Zurück zu: Installation](installation.md)

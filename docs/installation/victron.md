@@ -1,5 +1,6 @@
 # Batterie-Wechselrichter
 
+[Zurück zu: Installation](installation.md)
 Der Kombiwechselrichter ist AC-seitig an das Hausnetz angeschlossen und übernimmt folgende Aufgaben
 
 - Laden der Batterien mit Gleichspannung 48V (Solarlader)
@@ -20,4 +21,4 @@ Anschluss der Batterien and die Wechselrichter erfolgt über den Victron Distrib
 Die Steuerung der Anlage erfolgt über einen [Cerbo GX](https://www.victronenergy.com/panel-systems-remote-monitoring/cerbo-gx#manuals)
 ![grafik](https://github.com/user-attachments/assets/7e51eabf-f02d-471c-84c6-aac179b2dc61)
 
-[back to installation](installation.md)
+[Zurück zu: Installation](installation.md)

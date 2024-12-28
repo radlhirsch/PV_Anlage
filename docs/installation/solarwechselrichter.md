@@ -1,5 +1,7 @@
 # Solar-Wechselrichter
 
+[Zurück zu: Installation](installation.md)
+
 ## SolarEdge SE-15K
 
 ![grafik](https://github.com/user-attachments/assets/f79ed050-82a2-4b37-a0e0-6dde5a8efa91)
@@ -17,4 +19,4 @@
 -- Mailadresse ...web.de
 -- Xxxfisch4yy!
 
-[back to Installation](installation.md)
+[Zurück zu: Installation](installation.md)
